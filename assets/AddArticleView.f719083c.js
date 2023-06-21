@@ -1,1 +1,0 @@
-import{A as o}from"./ArticleEditorComponent.ffdb62ce.js";import{o as r,b as t}from"./index.ff2e75e0.js";import"./ArticleComponent.636ea3cd.js";import"./ImagePickerModalComponent.a21d33fb.js";import"./aspect_missing_img.27806897.js";const _={__name:"AddArticleView",setup(e){return(p,c)=>(r(),t(o))}};export{_ as default};
